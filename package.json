@@ -1,0 +1,22 @@
+{
+  "name": "verylodash",
+  "version": "1.0.0",
+  "description": "javascript helpers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MotazAbuElnasr/verylodash.git"
+  },
+  "author": "MotazAbuElnasr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MotazAbuElnasr/verylodash/issues"
+  },
+  "homepage": "https://github.com/MotazAbuElnasr/verylodash#readme"
+}
